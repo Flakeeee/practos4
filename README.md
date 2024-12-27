@@ -1,4 +1,4 @@
-# prak4
+# practos4 interpreter
 параметры запуска 
 -i test_program.bin -r 198:207 -o test_program_result.json
 для интерпритатора
